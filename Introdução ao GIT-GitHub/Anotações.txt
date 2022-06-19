@@ -8,3 +8,16 @@ https://nodejs.org/en/download/
 
 link para download do editor Markdown
 https://apps.microsoft.com/store/detail/markdown-editor-free/9PKFLMLPCW3C?hl=pt-br&gl=BR
+
+
+Passos para criação do repositório
+1- crie um repositorio novo diretamente no github e copie o link desse repositório no menu "CODE"
+2- no seu computador, na pasta que estão seus arquivos do código, abra o menu do mouse e clique em "Git Bash Here" para abrir o terminal do git
+3- no terminal, digite "git clone" + o link do seu repositorio que foi criado no passo 1, e de enter, agora seu repositorio remoto foi linkado ao seu repositorio local 
+4- copie os arquivos do seu projeto para seu repositorio local, ou seja, a pasta no seu pc que voce linkou ao git no passo 3
+5- refaça o passo 2 nessa nova pasta criada dentro do seu repositorio local e abra o Git Bash Here
+6- digite "git status" e será mostrado os arquivos que voce adicionou no repositorio local
+7- digite "git add ." (não esqueça do .(ponto)) para adicionar todos os arquivos para a proxima fase de envia-los ao repositorio remoto
+8- digite "git commit -m "adionando os arquivos do projeto"(essa parte é um comentario indicando a alteração que foi enviada) "
+9- digite "git push origin main" e isso empurra(daí o termo "push") os commits feitos no passo anterior para o repositorio remoto
+10- PRONTO! Seu repositorio ja foi criado e esta sincronizado 
