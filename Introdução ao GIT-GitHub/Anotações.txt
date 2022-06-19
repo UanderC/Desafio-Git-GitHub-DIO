@@ -1,0 +1,7 @@
+Links uteis
+
+https://git-scm.com/downloads
+https://code.visualstudio.com/download
+
+DIca: SEMPRE use a versão LTS pois a versão mais atual ainda tem alguns problemas a serem corrigidos
+https://nodejs.org/en/download/
