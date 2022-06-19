@@ -5,3 +5,6 @@ https://code.visualstudio.com/download
 
 DIca: SEMPRE use a versão LTS pois a versão mais atual ainda tem alguns problemas a serem corrigidos
 https://nodejs.org/en/download/
+
+link para download do editor Markdown
+https://apps.microsoft.com/store/detail/markdown-editor-free/9PKFLMLPCW3C?hl=pt-br&gl=BR
